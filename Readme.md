@@ -1,5 +1,4 @@
 ![Alt text](https://efficient-sloth-d85.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F364f7149-641c-4f30-890c-d18c94a06cb2%2FNode.js.png?table=block&id=2d48608f-4764-4519-a408-b438b52d913f&spaceId=08f749ff-d06d-49a8-a488-9846e081b224&width=250&userId=&cache=v2 "Title")
-Desafio referente ao módulo: Fundamentos do Node.js
 
 ## Sobre o desafio
 
